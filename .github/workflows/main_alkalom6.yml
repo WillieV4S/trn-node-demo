@@ -58,5 +58,5 @@ jobs:
         with:
           app-name: 'alkalom6'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B189F5EE16D449AD9F778C657B3DE908 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_985E73F799954405BD894F6E1B6F5061 }}
           package: .
